@@ -3,8 +3,8 @@
 This document outlines the design and implementation of a secure network system for TTEC GLOBAL which is a forward-thinking company specializing in providing Call Centre solutions globally. The project focuses on creating a robust network infrastructure to support various departments within the organization while ensuring the security of sensitive data and resources.
 
 ## 2. Case Study and Requirements
-Cytonn Innovation Ltd has a workforce of 600 staff and is preparing to move to a new building with three floors. The building will host various departments, including Sales and Marketing, Human Resources, Finance, ICT, and a Server Room. The ICT department includes Software Developers, Cloud Engineers, Cybersecurity Engineers, Network Engineers, System Administrators, IT Support Specialists, Business Analysts, and Project Managers.
-Prior to the move, a new network service needs to be designed and implemented. The company aims to ensure robust security against internal and external threats by implementing a multi-layered security approach, including a firewall with distinct security zones: outside, inside, and DMZ.
+TTEC has a workforce of 1000 staff and is preparing to move to a new building with three floors. The building will host various departments, including Sales and Marketing, Human Resources, Finance, ICT, and a Server Room. The ICT department includes Software Developers, Cloud Engineers, Cybersecurity Engineers, Network Engineers, System Administrators, IT Support Specialists, Business Analysts, and Project Managers.
+Prior to the move, a new network service needs to be designed and implemented. The company aims to ensure robust security against internal and external threats by implementing a multi-layered security approach, including a firewall with distinct security zones: outside, inside and DMZ.
 
 ## 3.Network Devices Description
 
