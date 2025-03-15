@@ -4,7 +4,7 @@ This document outlines the design and implementation of a secure network system 
 
 ## 2. Case Study and Requirements
 TTEC has a workforce of 1000 staff and is preparing to move to a new building with three floors. The building will host various departments, including Sales and Marketing, Human Resources, Finance, ICT, and a Server Room. The ICT department includes Software Developers, Cloud Engineers, Cybersecurity Engineers, Network Engineers, System Administrators, IT Support Specialists, Business Analysts, and Project Managers.
-Prior to the move, a new network service needs to be designed and implemented. The company aims to ensure robust security against internal and external threats by implementing a multi-layered security approach, including a firewall with distinct security zones: outside, inside and DMZ.
+Prior to the move to building we will need to create a new network service needs to be designed and implemented. The company aims to ensure robust security against internal and external threats by implementing a multi-layered security approach, including a firewall with distinct security zones: outside, inside and DMZ.
 
 ## 3.Network Devices Description
 
