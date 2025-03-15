@@ -1,8 +1,6 @@
-# Design and Implementation of a Secure Company Network System
+# Design and Implementation TTEC Global Network System
 ## 1. Introduction
-This document outlines the design and implementation of a secure network system for Cytonn Innovation Ltd, a forward-thinking company specializing in providing innovative cloud solutions globally. The project focuses on creating a robust network infrastructure to support various departments within the organization while ensuring the security of sensitive data and resources.
-
-![Secure Company Network Packet Tracer](https://github.com/user-attachments/assets/c084538a-3330-46da-b629-8aa0aebc4081)
+This document outlines the design and implementation of a secure network system for TTEC GLOBAL which is a forward-thinking company specializing in providing Call Centre solutions globally. The project focuses on creating a robust network infrastructure to support various departments within the organization while ensuring the security of sensitive data and resources.
 
 ## 2. Case Study and Requirements
 Cytonn Innovation Ltd has a workforce of 600 staff and is preparing to move to a new building with three floors. The building will host various departments, including Sales and Marketing, Human Resources, Finance, ICT, and a Server Room. The ICT department includes Software Developers, Cloud Engineers, Cybersecurity Engineers, Network Engineers, System Administrators, IT Support Specialists, Business Analysts, and Project Managers.
