@@ -171,3 +171,70 @@ After configuring the entire network, thorough testing was conducted to ensure p
 
 
 The design and implementation of a secure network system for TTEC Global is critical to ensuring operational efficiency and safeguarding sensitive data. By employing a structured approach with robust security measures, the new network will support the company's growth and adaptability in the digital landscape with the basic reasons we care about information systems security are that some of our information needs to be protected against unauthorized disclosure for legal and competitive reasons; all of the information we store and refer to must be protected against accidental or deliberate modification and must be available in a timely fashion. We must also establish and maintain the authenticity (correct attribution) of documents we create, send and receive. Finally, the if poor security practices allow damage to our systems, we may be subject to criminal or civil legal proceedings; if our negligence allows third parties to be harmed via our compromised systems, there may be even more severe legal problems. Another issue that is emerging in e-commerce is that good security can finally be seen as part of the market development strategy. Consumers have expressed widespread concerns over privacy and the safety of their data; companies with strong security can leverage their investment to increase the pool of willing buyers and to increase their market share. We no longer have to look at security purely as loss avoidance: in today's marketplace good security becomes a competitive advantage that can contribute directly to revenue figures and the bottom line. Networks today run mission-critical business services that need protection from both external and internal threats. In this paper we proposed a secure design and implementation of a network and system using Windows environment. Reviews of latest product with an application to an enterprise with worldwide branches are given.
+
+
+
+Step 1: Requirements Gathering
+Identify the purpose and scope of the network.
+Determine the number of users and devices.
+Understand the types of applications and services to be supported.
+Identify security requirements.
+Determine budget constraints.
+Step 2: Network Design
+Create a logical network topology.
+Design the physical layout of the network.
+Select appropriate network devices (routers, switches, firewalls, etc.).
+Plan IP addressing and subnetting.
+Design network security measures (firewalls, VPNs, IDS/IPS, etc.).
+Step 3: Hardware and Software Selection
+Choose appropriate hardware based on design specifications.
+Select network management and monitoring tools.
+Decide on the operating systems and network services.
+Step 4: Implementation
+Install and configure network devices.
+Set up network cabling and physical connections.
+Configure network protocols and services.
+Implement security measures.
+Step 5: Testing
+Perform connectivity tests.
+Test network performance (bandwidth, latency, etc.).
+Conduct security testing (vulnerability scanning, penetration testing, etc.).
+Validate redundancy and failover mechanisms.
+Step 6: Documentation and Training
+Document network configurations and topologies.
+Create user manuals and training materials.
+Train network administrators and end-users.
+Step 7: Maintenance and Monitoring
+Set up network monitoring tools.
+Schedule regular maintenance and updates.
+Monitor network performance and security.
+Troubleshoot and resolve network issues.
+Example Implementation Plan
+1. Requirements Gathering
+Purpose: To support a corporate office with 150 employees.
+Applications: Email, VoIP, file sharing, internet access, ERP system.
+Security: Secure access to sensitive data, VPN for remote users, firewall protection.
+2. Network Design
+Topology: Star topology with a central switch.
+Devices: 1 core switch, 10 access switches, 2 routers, 1 firewall.
+IP Addressing: Private IP range 192.168.0.0/24.
+Security: Firewall rules, VPN for remote access, VLANs for segmentation.
+3. Hardware and Software Selection
+Hardware: Cisco switches and routers, Fortinet firewall.
+Software: Cisco IOS for switches and routers, FortiOS for firewall.
+Management Tools: SolarWinds for network monitoring.
+4. Implementation
+Installation: Install switches and routers in the server room.
+Configuration: Set up VLANs, configure routing protocols (OSPF), implement firewall rules.
+Cabling: Connect all devices with Cat6 Ethernet cables.
+5. Testing
+Connectivity: Ping test between devices.
+Performance: Measure bandwidth using iPerf.
+Security: Run Nessus vulnerability scan.
+6. Documentation and Training
+Documentation: Network diagrams, configuration files.
+Training: Conduct training sessions for IT staff.
+7. Maintenance and Monitoring
+Monitoring: Set up alerts in SolarWinds.
+Maintenance: Schedule firmware updates and backups.
+Troubleshooting: Establish a helpdesk for network issues.
