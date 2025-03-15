@@ -170,7 +170,7 @@ After configuring the entire network, thorough testing was conducted to ensure p
 # ![image](https://github.com/user-attachments/assets/e6027e05-1bfa-4a99-866c-bf84d2db921f)
 
 
-The design and implementation of a secure network system for TTEC Global is critical to ensuring operational efficiency and safeguarding sensitive data. By employing a structured approach with robust security measures, the new network will support the company's growth and adaptability in the digital landscape with the basic reasons we care about information systems security are that some of our information needs to be protected against unauthorized disclosure for legal and competitive reasons; all of the information we store and refer to must be protected against accidental or deliberate modification and must be available in a timely fashion. We must also establish and maintain the authenticity (correct attribution) of documents we create, send and receive. Finally, the if poor security practices allow damage to our systems, we may be subject to criminal or civil legal proceedings; if our negligence allows third parties to be harmed via our compromised systems, there may be even more severe legal problems. Another issue that is emerging in e-commerce is that good security can finally be seen as part of the market development strategy. Consumers have expressed widespread concerns over privacy and the safety of their data; companies with strong security can leverage their investment to increase the pool of willing buyers and to increase their market share. We no longer have to look at security purely as loss avoidance: in today's marketplace good security becomes a competitive advantage that can contribute directly to revenue figures and the bottom line. Networks today run mission-critical business services that need protection from both external and internal threats. In this paper we proposed a secure design and implementation of a network and system using Windows environment. Reviews of latest product with an application to an enterprise with worldwide branches are given.
+The design and implementation of a secure network system for TTEC Global is critical to ensuring operational efficiency and safeguarding sensitive data. By employing a structured approach with robust security measures, the new network will support the company's growth and adaptability in the digital landscape with the basic reasons we care about information systems security are that some of our information needs to be protected against unauthorized disclosure for legal and competitive reasons of all of the information we store and refer to must be protected against accidental or deliberate modification and must be available in a timely fashion. We must also establish and maintain the authenticity (correct attribution) of documents we create, send and receive. Finally, the if poor security practices allow damage to our systems, we may be subject to criminal or civil legal proceedings; if our negligence allows third parties to be harmed via our compromised systems, there may be even more severe legal problems. Another issue that is emerging in e-commerce is that good security can finally be seen as part of the market development strategy. Consumers have expressed widespread concerns over privacy and the safety of their data; companies with strong security can leverage their investment to increase the pool of willing buyers and to increase their market share. We no longer have to look at security purely as loss avoidance: in today's marketplace good security becomes a competitive advantage that can contribute directly to revenue figures and the bottom line. Networks today run mission-critical business services that need protection from both external and internal threats. In this paper we proposed a secure design and implementation of a network and system using Windows environment. Reviews of latest product with an application to an enterprise with worldwide branches are given.
 
 
 
@@ -180,35 +180,43 @@ Determine the number of users and devices.
 Understand the types of applications and services to be supported.
 Identify security requirements.
 Determine budget constraints.
+
 Step 2: Network Design
 Create a logical network topology.
 Design the physical layout of the network.
 Select appropriate network devices (routers, switches, firewalls, etc.).
 Plan IP addressing and subnetting.
 Design network security measures (firewalls, VPNs, IDS/IPS, etc.).
+
 Step 3: Hardware and Software Selection
 Choose appropriate hardware based on design specifications.
 Select network management and monitoring tools.
 Decide on the operating systems and network services.
+
 Step 4: Implementation
 Install and configure network devices.
 Set up network cabling and physical connections.
 Configure network protocols and services.
 Implement security measures.
+
 Step 5: Testing
 Perform connectivity tests.
 Test network performance (bandwidth, latency, etc.).
 Conduct security testing (vulnerability scanning, penetration testing, etc.).
 Validate redundancy and failover mechanisms.
+
 Step 6: Documentation and Training
 Document network configurations and topologies.
 Create user manuals and training materials.
 Train network administrators and end-users.
+
 Step 7: Maintenance and Monitoring
 Set up network monitoring tools.
 Schedule regular maintenance and updates.
 Monitor network performance and security.
 Troubleshoot and resolve network issues.
+
+
 Example Implementation Plan
 1. Requirements Gathering
 Purpose: To support a corporate office with 150 employees.
