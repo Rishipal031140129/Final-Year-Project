@@ -6,6 +6,9 @@ This document outlines the design and implementation of a secure network system 
 TTEC has a workforce of 1000 staff and is preparing to move to a new building with three floors. The building will host various departments, including Sales and Marketing, Human Resources, Finance, ICT, and a Server Room. The ICT department includes Software Developers, Cloud Engineers, Cybersecurity Engineers, Network Engineers, System Administrators, IT Support Specialists, Business Analysts, and Project Managers.
 Prior to the move to building we will need to create a new network service needs to be designed and implemented. The company aims to ensure robust security against internal and external threats by implementing a multi-layered security approach, including a firewall with distinct security zones: outside, inside and DMZ.
 
+![image](https://github.com/user-attachments/assets/5b182195-2951-4122-805e-80c62db55de3)
+
+
 ## 3.Network Devices Description
 
 ### Cisco ASA Firewall
